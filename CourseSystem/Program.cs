@@ -50,6 +50,7 @@ namespace CourseSystem
             builder.Services.AddScoped<IRoleRepository, RoleRepository>();
             builder.Services.AddScoped<IRoleService, RoleService>();
             builder.Services.AddScoped<IFileService, FileService>();
+            builder.Services.AddScoped<IFileRepository, FileRepository>();
             builder.Services.AddControllers(opts =>
                  opts.Conventions.Add(new RouteTokenTransformerConvention(new ToKebabParameterTransformer())));
 

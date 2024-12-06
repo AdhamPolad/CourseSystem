@@ -1,6 +1,7 @@
 ﻿using CourseSystem.Data;
 using CourseSystem.Dtos.File;
 using CourseSystem.Entities.AppDbContextEntity;
+using CourseSystem.RepositoriesV2.Interfaces;
 using CourseSystem.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,13 +9,13 @@ namespace CourseSystem.Services.Implementations
 {
     public class FileService : IFileService
     {
-        private CourseSystemDbContext _courseSystemDbContext { get; set; }
+        private readonly IFileRepository _fileRepository;
         private IConfiguration _configuration { get; set; }
 
-        public FileService(CourseSystemDbContext courseSystemDbContext, IConfiguration configuration)
+        public FileService(IConfiguration configuration, IFileRepository fileRepository)
         {
-            _courseSystemDbContext = courseSystemDbContext;
             _configuration = configuration;
+            _fileRepository = fileRepository;
         }
 
         public async Task Upload(IFormFile formFile, int userId)
@@ -50,15 +51,12 @@ namespace CourseSystem.Services.Implementations
 
         private async Task DbOperation(FileDetails fileDetails)
         {
-            await _courseSystemDbContext.FileDetails.AddAsync(fileDetails);
-            await _courseSystemDbContext.SaveChangesAsync();
+            await _fileRepository.AddFileDetails(fileDetails);
         }
 
         public async Task<FileResponceDto> Download(int userId)
         {
-            User? user = await _courseSystemDbContext.Users.Where(x=>x.Id == userId)
-                                                                .Include(x=>x.FileDetails)
-                                                                .FirstOrDefaultAsync();
+            User? user = await _fileRepository.GetUser(userId);
 
             FileDetails? fileDetails = user.FileDetails?.FirstOrDefault();
 

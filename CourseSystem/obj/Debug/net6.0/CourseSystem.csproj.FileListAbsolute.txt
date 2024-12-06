@@ -110,3 +110,4 @@ C:\Users\aser\Desktop\c#\Web app\CourseSystemSln\CourseSystem\bin\Debug\net6.0\M
 C:\Users\aser\Desktop\c#\Web app\CourseSystemSln\CourseSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\aser\Desktop\c#\Web app\CourseSystemSln\CourseSystem\bin\Debug\net6.0\System.Collections.Immutable.dll
 C:\Users\aser\Desktop\c#\Web app\CourseSystemSln\CourseSystem\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\aser\Desktop\c#\Web app\CourseSystemSln\CourseSystem\obj\Debug\net6.0\CourseSystem.sourcelink.json
