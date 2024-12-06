@@ -1,0 +1,1242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\user\\postuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\user\\postuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\entities\\appdbcontextentity\\filedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\entities\\appdbcontextentity\\filedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\data\\coursesystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\data\\coursesystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\user\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\user\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\file\\fileresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\file\\fileresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\repositoriesv2\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\repositoriesv2\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\mappings\\fileprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\mappings\\fileprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\mappings\\lessonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\mappings\\lessonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\mappings\\groupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\mappings\\groupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\file\\getfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\file\\getfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\entities\\appdbcontextentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\entities\\appdbcontextentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\repositoriesv2\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\repositoriesv2\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\repositoriesv2\\implementations\\studentrepositoryv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\repositoriesv2\\implementations\\studentrepositoryv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\configuration\\fileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\configuration\\fileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\mappings\\roleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\mappings\\roleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\entities\\appdbcontextentity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\entities\\appdbcontextentity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\filter\\modelstatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\filter\\modelstatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\migrations\\20241130001045_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\migrations\\20241130001045_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\migrations\\coursesystemdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\migrations\\coursesystemdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\migrations\\20241121193711_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\migrations\\20241121193711_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\migrations\\20241122220612_addisdeletedcolumntostudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\migrations\\20241122220612_addisdeletedcolumntostudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\migrations\\20241123132329_addisdeletedcolumntotables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\migrations\\20241123132329_addisdeletedcolumntotables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\user\\postuseranduserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\user\\postuseranduserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\userroles\\postuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\userroles\\postuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\mappings\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\mappings\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\mappings\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\mappings\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\entities\\appdbcontextentity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\entities\\appdbcontextentity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\role\\postroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\role\\postroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\entities\\appdbcontextentity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\entities\\appdbcontextentity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\customdtos\\responcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\customdtos\\responcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\repositoriesv2\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\repositoriesv2\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\repositoriesv2\\implementations\\lessonrepositoryv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\repositoriesv2\\implementations\\lessonrepositoryv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\repositoriesv2\\implementations\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\repositoriesv2\\implementations\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\entities\\appdbcontextentity\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\entities\\appdbcontextentity\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\entities\\appdbcontextentity\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\entities\\appdbcontextentity\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\role\\getroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\role\\getroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\enums\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\enums\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\customdtos\\customerrordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\customdtos\\customerrordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\implementations\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\implementations\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\group\\getgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\group\\getgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\student\\getstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\student\\getstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\repositoriesv2\\interfaces\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\repositoriesv2\\interfaces\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\lesson\\getlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\lesson\\getlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\student\\poststudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\student\\poststudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\group\\groupdtoforgetlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\group\\groupdtoforgetlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\userroles\\getuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\userroles\\getuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\role\\updateroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\role\\updateroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241121191126_ChangeRoleNameToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseSystem\\Migrations\\20241121191126_ChangeRoleNameToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241121185112_ChangeRoleNameToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseSystem\\Migrations\\20241121185112_ChangeRoleNameToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\group\\updategroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\group\\updategroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\group\\postgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\group\\postgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\dtos\\student\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\dtos\\student\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\migrations\\20241122220612_addisdeletedcolumntostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\migrations\\20241122220612_addisdeletedcolumntostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|c:\\users\\aser\\desktop\\c#\\web app\\coursesystemsln\\coursesystem\\migrations\\20241203192107_addfiledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F543CB1-BFE6-4393-A151-7732B55BE538}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\migrations\\20241203192107_addfiledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:16:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\FileService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Implementations\\FileService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\FileService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Implementations\\FileService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowBMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:22:55.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CourseSystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:23:14.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileResponceDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\File\\FileResponceDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\File\\FileResponceDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\File\\FileResponceDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\File\\FileResponceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:30:09.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:17:11.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\RepositoriesV2\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CourseSystem\\RepositoriesV2\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:41:23.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileProfile.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\FileProfile.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Mappings\\FileProfile.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\FileProfile.cs",
+              "RelativeToolTip": "CourseSystem\\Mappings\\FileProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:17:39.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Data\\CourseSystemDbContext.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Data\\CourseSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Data\\CourseSystemDbContext.cs",
+              "RelativeToolTip": "CourseSystem\\Data\\CourseSystemDbContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:31:50.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileDetails.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\FileDetails.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Entities\\AppDbContextEntity\\FileDetails.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\FileDetails.cs",
+              "RelativeToolTip": "CourseSystem\\Entities\\AppDbContextEntity\\FileDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:05:00.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\User\\PostUserDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\User\\PostUserDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\User\\PostUserDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\User\\PostUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:34:44.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Interfaces\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:24:37.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CourseSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIA0wC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:17:49.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\User\\GetUserDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\User\\GetUserDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\User\\GetUserDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\User\\GetUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:55:44.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LessonProfile.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\LessonProfile.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Mappings\\LessonProfile.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\LessonProfile.cs",
+              "RelativeToolTip": "CourseSystem\\Mappings\\LessonProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:01:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupProfile.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\GroupProfile.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Mappings\\GroupProfile.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\GroupProfile.cs",
+              "RelativeToolTip": "CourseSystem\\Mappings\\GroupProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:50:32.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\RepositoriesV2\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "CourseSystem\\RepositoriesV2\\Implementations\\UserRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:47:18.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\File\\GetFileDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\File\\GetFileDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\File\\GetFileDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\File\\GetFileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:15:22.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\User.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Entities\\AppDbContextEntity\\User.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\User.cs",
+              "RelativeToolTip": "CourseSystem\\Entities\\AppDbContextEntity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:14:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Program.cs",
+              "RelativeToolTip": "CourseSystem\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAnwE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:01:56.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentRepositoryV2.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Implementations\\StudentRepositoryV2.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\RepositoriesV2\\Implementations\\StudentRepositoryV2.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Implementations\\StudentRepositoryV2.cs",
+              "RelativeToolTip": "CourseSystem\\RepositoriesV2\\Implementations\\StudentRepositoryV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:00:47.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CourseSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\appsettings.Development.json",
+              "RelativeToolTip": "CourseSystem\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T16:34:49.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\appsettings.json",
+              "RelativeToolTip": "CourseSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T16:34:46.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20241203192107_AddFileDetails.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241203192107_AddFileDetails.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\20241203192107_AddFileDetails.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241203192107_AddFileDetails.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\20241203192107_AddFileDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:21:07.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Configuration\\FileConfiguration.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Configuration\\FileConfiguration.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Configuration\\FileConfiguration.cs",
+              "RelativeToolTip": "CourseSystem\\Configuration\\FileConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:16:09.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleProfile.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\RoleProfile.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Mappings\\RoleProfile.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\RoleProfile.cs",
+              "RelativeToolTip": "CourseSystem\\Mappings\\RoleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:44:49.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\Role.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Entities\\AppDbContextEntity\\Role.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\Role.cs",
+              "RelativeToolTip": "CourseSystem\\Entities\\AppDbContextEntity\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:39:03.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModelStateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Filter\\ModelStateHandler.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Filter\\ModelStateHandler.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Filter\\ModelStateHandler.cs",
+              "RelativeToolTip": "CourseSystem\\Filter\\ModelStateHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:11:31.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241130001045_SeedInitialData.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241130001045_SeedInitialData.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\20241130001045_SeedInitialData.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241130001045_SeedInitialData.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\20241130001045_SeedInitialData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:10:45.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CourseSystemDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\CourseSystemDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\CourseSystemDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\CourseSystemDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\CourseSystemDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:01:04.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241122220612_AddIsDeletedColumnToStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241122220612_AddIsDeletedColumnToStudent.Designer.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\20241122220612_AddIsDeletedColumnToStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241122220612_AddIsDeletedColumnToStudent.Designer.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\20241122220612_AddIsDeletedColumnToStudent.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:00:25.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241121193711_InitialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241121193711_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\20241121193711_InitialMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241121193711_InitialMigration.Designer.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\20241121193711_InitialMigration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:00:27.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241123132329_AddIsDeletedColumnToTables.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241123132329_AddIsDeletedColumnToTables.Designer.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\20241123132329_AddIsDeletedColumnToTables.Designer.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241123132329_AddIsDeletedColumnToTables.Designer.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\20241123132329_AddIsDeletedColumnToTables.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:00:32.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PostUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\UserRoles\\PostUserRoleDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\UserRoles\\PostUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\UserRoles\\PostUserRoleDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\UserRoles\\PostUserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:09:47.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PostUserAndUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\User\\PostUserAndUserRoleDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\User\\PostUserAndUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\User\\PostUserAndUserRoleDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\User\\PostUserAndUserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:23:23.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\UserProfile.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Mappings\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\UserProfile.cs",
+              "RelativeToolTip": "CourseSystem\\Mappings\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:18:59.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "CourseSystem\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:57:54.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Mappings\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Mappings\\StudentProfile.cs",
+              "RelativeToolTip": "CourseSystem\\Mappings\\StudentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:56:59.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PostRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Role\\PostRoleDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Role\\PostRoleDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Role\\PostRoleDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Role\\PostRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:00:46.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\UserRole.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Entities\\AppDbContextEntity\\UserRole.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\UserRole.cs",
+              "RelativeToolTip": "CourseSystem\\Entities\\AppDbContextEntity\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:16:11.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\Student.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Entities\\AppDbContextEntity\\Student.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\Student.cs",
+              "RelativeToolTip": "CourseSystem\\Entities\\AppDbContextEntity\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:38:58.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LessonRepositoryV2.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Implementations\\LessonRepositoryV2.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\RepositoriesV2\\Implementations\\LessonRepositoryV2.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Implementations\\LessonRepositoryV2.cs",
+              "RelativeToolTip": "CourseSystem\\RepositoriesV2\\Implementations\\LessonRepositoryV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:08:15.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Implementations\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\RepositoriesV2\\Implementations\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Implementations\\RoleRepository.cs",
+              "RelativeToolTip": "CourseSystem\\RepositoriesV2\\Implementations\\RoleRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:41:32.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Interfaces\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\RepositoriesV2\\Interfaces\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Interfaces\\IGroupRepository.cs",
+              "RelativeToolTip": "CourseSystem\\RepositoriesV2\\Interfaces\\IGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:34:38.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ResponceDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\CustomDtos\\ResponceDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\CustomDtos\\ResponceDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\CustomDtos\\ResponceDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\CustomDtos\\ResponceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:31:27.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\Group.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Entities\\AppDbContextEntity\\Group.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\Group.cs",
+              "RelativeToolTip": "CourseSystem\\Entities\\AppDbContextEntity\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:40:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "CourseSystem\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:42:27.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\Lesson.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Entities\\AppDbContextEntity\\Lesson.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Entities\\AppDbContextEntity\\Lesson.cs",
+              "RelativeToolTip": "CourseSystem\\Entities\\AppDbContextEntity\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:43:24.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Role\\GetRoleDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Role\\GetRoleDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Role\\GetRoleDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Role\\GetRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:38:37.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoleType.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Enums\\RoleType.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Enums\\RoleType.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Enums\\RoleType.cs",
+              "RelativeToolTip": "CourseSystem\\Enums\\RoleType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:41:14.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Middleware\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Middleware\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Middleware\\ExceptionHandler.cs",
+              "RelativeToolTip": "CourseSystem\\Middleware\\ExceptionHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:13:45.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\RoleService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Implementations\\RoleService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\RoleService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Implementations\\RoleService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwD0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:51:08.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\GroupService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\GroupService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Implementations\\GroupService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:59:33.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "CourseSystem\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:45:15.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CustomErrorDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\CustomDtos\\CustomErrorDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\CustomDtos\\CustomErrorDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\CustomDtos\\CustomErrorDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\CustomDtos\\CustomErrorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:11:42.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\LessonService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Implementations\\LessonService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\LessonService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Implementations\\LessonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:16:17.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "CourseSystem\\Controllers\\LessonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:16:23.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetGroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Group\\GetGroupDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Group\\GetGroupDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Group\\GetGroupDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Group\\GetGroupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:45:47.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Student\\GetStudentDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Student\\GetStudentDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Student\\GetStudentDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Student\\GetStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:38:11.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwH0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:46:06.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20241122220612_AddIsDeletedColumnToStudent.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241122220612_AddIsDeletedColumnToStudent.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\20241122220612_AddIsDeletedColumnToStudent.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241122220612_AddIsDeletedColumnToStudent.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\20241122220612_AddIsDeletedColumnToStudent.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:06:12.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ILessonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Interfaces\\ILessonRepository.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\RepositoriesV2\\Interfaces\\ILessonRepository.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\RepositoriesV2\\Interfaces\\ILessonRepository.cs",
+              "RelativeToolTip": "CourseSystem\\RepositoriesV2\\Interfaces\\ILessonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:36:37.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetLessonDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Lesson\\GetLessonDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Lesson\\GetLessonDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Lesson\\GetLessonDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Lesson\\GetLessonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:46:33.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PostStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Student\\PostStudentDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Student\\PostStudentDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Student\\PostStudentDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Student\\PostStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:46:18.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GroupDtoForGetLesson.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Group\\GroupDtoForGetLesson.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Group\\GroupDtoForGetLesson.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Group\\GroupDtoForGetLesson.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Group\\GroupDtoForGetLesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:52:08.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GetUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\UserRoles\\GetUserRoleDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\UserRoles\\GetUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\UserRoles\\GetUserRoleDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\UserRoles\\GetUserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:15:43.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UpdateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Role\\UpdateRoleDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Role\\UpdateRoleDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Role\\UpdateRoleDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Role\\UpdateRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:00:48.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\User\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\User\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\User\\UpdateUserDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\User\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:56:10.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20241121191126_ChangeRoleNameToInt.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241121191126_ChangeRoleNameToInt.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\20241121191126_ChangeRoleNameToInt.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241121191126_ChangeRoleNameToInt.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\20241121191126_ChangeRoleNameToInt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:11:27.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20241121185112_ChangeRoleNameToInt.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241121185112_ChangeRoleNameToInt.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Migrations\\20241121185112_ChangeRoleNameToInt.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Migrations\\20241121185112_ChangeRoleNameToInt.cs",
+              "RelativeToolTip": "CourseSystem\\Migrations\\20241121185112_ChangeRoleNameToInt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:51:12.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:49:42.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:03:15.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\WeatherForecast.cs",
+              "RelativeToolTip": "CourseSystem\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:58:43.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Services\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "CourseSystem\\Services\\Interfaces\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:08:51.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UpdateGroupdto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Group\\UpdateGroupdto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Group\\UpdateGroupdto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Group\\UpdateGroupdto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Group\\UpdateGroupdto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:38:19.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PostGroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Group\\PostGroupDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Group\\PostGroupDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Group\\PostGroupDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Group\\PostGroupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:59:53.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Student\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Dtos\\Student\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\aser\\Desktop\\c#\\Web app\\CourseSystemSln\\CourseSystem\\Dtos\\Student\\UpdateStudentDto.cs",
+              "RelativeToolTip": "CourseSystem\\Dtos\\Student\\UpdateStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:30:34.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
